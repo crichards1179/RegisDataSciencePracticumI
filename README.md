@@ -5,12 +5,11 @@ Placeholder for Data Science Project using COVID-19 data. Data cleanup done in P
 
 ## Data Sources used:
 
-COVID-19 data - John Hopkins University
-World Bank population and GDP data wbdata
-Community Mobility Reports
+     COVID-19 data - John Hopkins University
+     World Bank population and GDP data wbdata
+     Community Mobility Reports
 
-Basic Info from the Author
-Hello!
+
 
 This repository was created for a Data Science Practicum course at Regis University in Colorado. 
 
