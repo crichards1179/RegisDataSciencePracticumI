@@ -6,7 +6,8 @@ Placeholder for Data Science Project using COVID-19 data. Data cleanup done in P
 Data Sources used:
 
 COVID-19 data - John Hopkins University
-Pharmacy data - Cigna/ESI pharmacy data (aggregated values only)
+World Bank population and GDP data wbdata
+Community Mobility Reports
 
 Basic Info from the Author
 Hello!
