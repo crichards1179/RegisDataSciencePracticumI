@@ -3,7 +3,7 @@
 
 Placeholder for Data Science Project using COVID-19 data. Data cleanup done in Python. EDA and modeling done in ?
 
-###Data Sources used:
+## Data Sources used:
 
 COVID-19 data - John Hopkins University
 World Bank population and GDP data wbdata
